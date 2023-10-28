@@ -1,5 +1,5 @@
 const Sequelize= require('sequelize');
-const {applyRelations} =require('./relations')
+const {applyRelations} = require('./relations')
 
 const sequelize = new Sequelize('weektec','admin','admin',{
     dialect:'mysql',
