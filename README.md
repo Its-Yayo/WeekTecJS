@@ -7,7 +7,7 @@ $ git clone https://github.com/Its-Yayo/WeekTecJS.git
 $ cd WeekTecJS
 ```
 
-If you wanna update all changes of F-test, you can type the following command.
+If you wanna update all changes of this repo, you can type the following command.
 ```shell
 $ git pull
 ```
